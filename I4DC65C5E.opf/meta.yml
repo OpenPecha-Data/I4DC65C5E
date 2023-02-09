@@ -1,0 +1,16 @@
+id: I4DC65C5E
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:09:35.250509
+last_modified: 2023-02-09 15:09:35.250613
+source_metadata:
+  title: 'MSV 1,14: Poṣadhasthāpanavastu'
+  language: bo
+bases:
+  3E65:
+    base_file: 3E65.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

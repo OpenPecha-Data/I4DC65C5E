@@ -1,0 +1,11 @@
+id: 3f1470579fd841b4b2de260be5740800
+annotation_type: index
+revision: '00001'
+annotations:
+  a6d29e9c2c724e6d8c5bf1404170a354:
+    base: 3E65.txt
+    Chapters:
+    - title: Poṣadhasthāpanavastu
+      span:
+        start: 0
+        end: 615
